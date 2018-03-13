@@ -1,11 +1,6 @@
 Codeigniter PHP QR Code
 =======================
 
-Version 1 - Dec 2011
-by dwi.setiyadi@gmail.com
-
-
-
 Introduction
 ------------
 
